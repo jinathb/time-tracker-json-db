@@ -1,14 +1,67 @@
 {
- "users" : [
-        { id: 1, lastName: "Snow", firstName: "Jon", email: "Jon@abc.com", phone: "312323123" },
-        { id: 2, lastName: "Lannister", firstName: "Cersei", email: "Cersei@abc.com", phone: "76443524234" },
-        { id: 3, lastName: "Lannister", firstName: "Jaime", email: "Jaime@abc.com", phone: "245523454545" },
-        { id: 4, lastName: "Stark", firstName: "Arya", email: "Arya@abc.com", phone: "993243423424" },
-        { id: 5, lastName: "Targaryen", firstName: "Daenerys", email: "Daenerys@abc.com", phone: "5334534545" },
-        { id: 6, lastName: "Melisandre", firstName: "Smith", email: "Smith@abc.com", phone: "6546565463" },
-        { id: 7, lastName: "Clifford", firstName: "Ferrara", email: "Ferrara@abc.com", phone: "645345435" },
-        { id: 8, lastName: "Frances", firstName: "Rossini", email: "Rossini@abc.com", phone: "45454542324" },
-        { id: 9, lastName: "Roxie", firstName: "Harvey", email: "Harvey@abc.com", phone: "854745535" }
-    ];
-
+   "users":[
+      {
+         "id":1,
+         "lastName":"Snow",
+         "firstName":"Jon",
+         "email":"Jon@abc.com",
+         "phone":"312323123"
+      },
+      {
+         "id":2,
+         "lastName":"Lannister",
+         "firstName":"Cersei",
+         "email":"Cersei@abc.com",
+         "phone":"76443524234"
+      },
+      {
+         "id":3,
+         "lastName":"Lannister",
+         "firstName":"Jaime",
+         "email":"Jaime@abc.com",
+         "phone":"245523454545"
+      },
+      {
+         "id":4,
+         "lastName":"Stark",
+         "firstName":"Arya",
+         "email":"Arya@abc.com",
+         "phone":"993243423424"
+      },
+      {
+         "id":5,
+         "lastName":"Targaryen",
+         "firstName":"Daenerys",
+         "email":"Daenerys@abc.com",
+         "phone":"5334534545"
+      },
+      {
+         "id":6,
+         "lastName":"Melisandre",
+         "firstName":"Smith",
+         "email":"Smith@abc.com",
+         "phone":"6546565463"
+      },
+      {
+         "id":7,
+         "lastName":"Clifford",
+         "firstName":"Ferrara",
+         "email":"Ferrara@abc.com",
+         "phone":"645345435"
+      },
+      {
+         "id":8,
+         "lastName":"Frances",
+         "firstName":"Rossini",
+         "email":"Rossini@abc.com",
+         "phone":"45454542324"
+      },
+      {
+         "id":9,
+         "lastName":"Roxie",
+         "firstName":"Harvey",
+         "email":"Harvey@abc.com",
+         "phone":"854745535"
+      }
+   ]
 }
